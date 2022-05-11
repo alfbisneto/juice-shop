@@ -50,4 +50,4 @@ jobs:
     
     steps:
     - name: Print hello world
-    un: echo "Hello world MacOS"
+      run: echo "Hello world MacOS"
